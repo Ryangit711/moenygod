@@ -14,7 +14,7 @@
 
 ## How Soros-Types Think About the System
 
-### 1. Money Is Not Real —Belief In It Is Real
+### 1. Money Is Not Real — Belief In It Is Real
 
 The entire system runs on collective belief. The moment enough people stop believing a currency has value, it doesn't. This has happened repeatedly throughout history:
 
@@ -28,7 +28,7 @@ The people who profit most understand that **confidence is the product**, and th
 
 Financial markets are models of reality, not reality itself. When the model diverges too far from reality — as it did with subprime mortgages in 2008 — there is money to be made by betting against the model. This is exactly what Soros did with the British pound in 1992 (Black Wednesday) and what he and others did in 2008.
 
-### 3. Debt Is the architecture of Power
+### 3. Debt Is the Architecture of Power
 
 At every level of civilization, debt has been used as a tool of control:
 
@@ -84,3 +84,18 @@ These were not acts of charity. They were acts of **political survival**. When t
 6. Is the steward serving the household — or himself?
 
 These are the questions that people like Soros understand are the **real** questions of economics. Not "what will GDP be next quarter?" Not "what did the Fed say today?" But: **who holds the power to create and destroy obligations, and what are they doing with it?**
+
+---
+
+## References
+
+- **#1** — David Graeber, *Debt: The First 5000 Years* (2011)
+- **#2** — Michael Hudson, *...and Forgive Them Their Debts* (2018)
+- **#18** — Naomi Klein, *The Shock Doctrine* (2007)
+- **#19** — George Soros, *The Alchemy of Finance* (1987)
+- **#20** — John Perkins, *Confessions of an Economic Hit Man* (2004)
+- **#21** — Nicholas Shaxson, *Treasure Islands* (2011)
+- **#23** — Bruce Bueno de Mesquita & Alastair Smith, *The Dictator's Handbook* (2011)
+- **#57** — Liaquat Ahamed, *Lords of Finance* (2009)
+
+Full list: [references/master-reference-list.md](references/master-reference-list.md)

@@ -66,7 +66,7 @@ Objects that already had intrinsic value and were widely accepted:
 |-----------|---------------|
 | Shells (e.g., cowries) | Hard to counterfeit, easy to count, portable |
 | Precious metals (gold, silver) | Durable, divisible (by melting or cutting), universally desired |
-| Livestock, grain, salt | Essential for survival, thus inherently valuable |
+| Livestock, grain, salt | Essential for survival, thus inherently valued |
 
 These served two roles:
 1. **Unit of account** — a common measure to price other goods
@@ -106,3 +106,18 @@ Why societies accept fiat money despite no intrinsic value:
 - They were **never neutral** — from the very beginning in Sumer and Babylon, they were tools of power, used by temples, kings, and later banks to organize society in ways that benefited those at the top
 
 The real question: **who gets to create the obligations, and who is forced to fulfill them?**
+
+---
+
+## References
+
+- **#1** — David Graeber, *Debt: The First 5000 Years* (2011)
+- **#2** — Michael Hudson, *...and Forgive Them Their Debts* (2018)
+- **#3** — Niall Ferguson, *The Ascent of Money* (2008)
+- **#5** — Stephen Zarlenga, *The Lost Science of Money* (2002)
+- **#6** — John Kenneth Galbraith, *Money: Whence It Came, Where It Went* (1975)
+- **#7** — The Babylonian Wergild Tradition (various scholars)
+- **#11** — Bank of England, *Money Creation in the Modern Economy* (2014)
+- **#59** — Federal Reserve Bank of Chicago, *Modern Money Mechanics* (1961)
+
+Full list: [references/master-reference-list.md](references/master-reference-list.md)

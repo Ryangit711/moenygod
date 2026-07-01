@@ -63,3 +63,15 @@ The question was never "how do we grow GDP?"
 The question was **"how do we manage the household so that everyone in it can live well?"**
 
 We forgot that. Or more precisely — the people who redesigned the word and the system wanted us to forget it. Because if you remember that economy means **household management**, you start asking who the household belongs to, who the steward is, and whether the steward is serving the household — or himself.
+
+---
+
+## References
+
+- **#13** — Aristotle, *Politics* (Book I) (~350 BC)
+- **#14** — Aristotle, *Nicomachean Ethics* (Book V) (~350 BC)
+- **#15** — Plato, *The Republic* (~380 BC)
+- **#16** — Karl Polanyi, *The Great Transformation* (1944)
+- **#17** — Robert Heilbroner, *The Worldly Philosophers* (1953)
+
+Full list: [references/master-reference-list.md](references/master-reference-list.md)

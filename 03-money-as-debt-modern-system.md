@@ -87,3 +87,18 @@ Money and debt are **engineered systems of obligation**:
 - Both exist because humans needed to track obligations at scale
 - They were **never neutral** — from Sumer and Babylon to Wall Street, they are tools of power
 - The question is always: **who creates the obligations, and who is forced to fulfill them?**
+
+---
+
+## References
+
+- **#8** — Josh Ryan-Collins et al., *Where Does Money Come From?* (2011)
+- **#9** — L. Randall Wray, *Modern Money Theory* (2012)
+- **#10** — Murray Rothbard, *The Mystery of Banking* (1983)
+- **#11** — Bank of England, *Money Creation in the Modern Economy* (2014)
+- **#22** — Thomas Piketty, *Capital in the Twenty-First Century* (2013)
+- **#59** — Federal Reserve Bank of Chicago, *Modern Money Mechanics* (1961)
+- **#60** — Stephanie Kelton, *Taxes Drive Money* (2014)
+- **#63** — Positive Money, *Sovereign Money* (ongoing)
+
+Full list: [references/master-reference-list.md](references/master-reference-list.md)
