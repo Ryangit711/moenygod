@@ -47,7 +47,8 @@ Money and debt are not natural — they are engineered systems of obligation. Th
 
 | File | What It Is |
 |------|------------|
-| [references/master-reference-list.md](references/master-reference-list.md) | Complete list of 70 books, papers, and tools referenced across all files, organized by category |
+| [references/master-reference-list.md](references/master-reference-list.md) | Complete list of 71 books, papers, and tools referenced across all files, organized by category |
+| [12-who-knows-this-level.md](12-who-knows-this-level.md) | Who actually understands money creation, debt as power, and the core question of who manages the household — and who doesn't |
 
 ---
 
